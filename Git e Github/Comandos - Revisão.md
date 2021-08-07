@@ -6,7 +6,7 @@
 **Git Add:**
  Adiciona ou modifica alterações
 
-**Git Add . :** 
+**Git Add .  :** 
  Adiciona ou modifica alterações todos os arquivos
 
 **Git Status:**
@@ -15,7 +15,7 @@
 **Git Log:**
  Visualiza os pontos na linha do tempo
 
-Git Commit:
+**Git Commit:**
  Adiciona o ponto na linha do tempo
 
 **Git Push:**
