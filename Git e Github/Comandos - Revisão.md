@@ -1,22 +1,22 @@
-Comandos
+# Comandos
 
-Git Init:
+**Git Init:**
  Inicia o versionamento
 
-Git Add:
+**Git Add:**
  Adiciona ou modifica alterações
 
-Git Add * 
+**Git Add . :** 
  Adiciona ou modifica alterações todos os arquivos
 
-Git Status:
+**Git Status:**
  Informa o estado atual das alterações
 
-Git Log:
+**Git Log:**
  Visualiza os pontos na linha do tempo
 
 Git Commit:
  Adiciona o ponto na linha do tempo
 
-Git Push:
+**Git Push:**
  Envia o projeto para o servidor remoto
